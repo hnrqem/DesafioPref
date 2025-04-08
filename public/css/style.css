@@ -1,0 +1,39 @@
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+
+
+header {
+    background: linear-gradient(to right, #81d5f7, #8fb8fd);
+    padding: 1rem 0;
+}
+.navbar-brand {
+    color: #6cc6fa !important;
+    font-weight: bold;
+}
+nav .nav-link {
+    color: #3fc6f0 !important;
+}
+
+
+main {
+    padding: 2rem 0;
+}
+
+
+footer {
+    background-color: #87d9fa;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+.logo {
+    max-width: 15em;
+}
